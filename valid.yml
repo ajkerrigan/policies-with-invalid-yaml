@@ -1,0 +1,3 @@
+policies:
+  - name: good-policy-ec2-list
+    resource: aws.ec2

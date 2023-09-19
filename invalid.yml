@@ -1,0 +1,9 @@
+policies:
+  - name: good-second-policy
+    resource: aws.ec2
+
+- name: but-now-lets-uglify-indentation
+resource: aws.ec2
+
+- name: and-do-it-again-for-good-measure
+resource: aws.ec2
